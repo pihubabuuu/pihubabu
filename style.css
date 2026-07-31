@@ -449,13 +449,7 @@ transform:rotateX(180deg);
 }
 
 .open .letter{
-
-transform:
-
-translateY(-255px)
-
-scale(1.02);
-
+    transform:translateY(-180px);
 }
 /* =====================================
    Petals
